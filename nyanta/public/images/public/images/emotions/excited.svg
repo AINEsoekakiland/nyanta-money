@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- 顔の背景 -->
+  <circle cx="60" cy="62" r="54" fill="#FF6B35" stroke="#2D2D2D" stroke-width="3"/>
+  <!-- ほっぺた -->
+  <ellipse cx="28" cy="74" rx="14" ry="10" fill="#FF3300" opacity="0.4"/>
+  <ellipse cx="92" cy="74" rx="14" ry="10" fill="#FF3300" opacity="0.4"/>
+  <!-- 目（キラキラ目） -->
+  <polygon points="42,38 45,48 56,48 47,55 50,65 42,58 34,65 37,55 28,48 39,48" fill="#FFD166" stroke="#2D2D2D" stroke-width="1.5"/>
+  <polygon points="78,38 81,48 92,48 83,55 86,65 78,58 70,65 73,55 64,48 75,48" fill="#FFD166" stroke="#2D2D2D" stroke-width="1.5"/>
+  <!-- 口（大笑い） -->
+  <path d="M32 78 Q60 104 88 78" stroke="#2D2D2D" stroke-width="3.5" fill="#2D2D2D" stroke-linecap="round"/>
+  <path d="M34 80 Q60 100 86 80" fill="#C0392B"/>
+  <!-- キラキラ周り -->
+  <line x1="8" y1="10" x2="16" y2="18" stroke="#FFD166" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="16" y1="8" x2="8" y2="18" stroke="#FFD166" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="104" y1="10" x2="112" y2="18" stroke="#FFD166" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="112" y1="8" x2="104" y2="18" stroke="#FFD166" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="12" cy="50" r="4" fill="#FFD166" stroke="#2D2D2D" stroke-width="1"/>
+  <circle cx="108" cy="45" r="4" fill="#FFD166" stroke="#2D2D2D" stroke-width="1"/>
+</svg>

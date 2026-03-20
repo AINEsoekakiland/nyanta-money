@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- 顔の背景 -->
+  <circle cx="60" cy="60" r="54" fill="#AED6F1" stroke="#2D2D2D" stroke-width="3"/>
+  <!-- ほっぺた（薄め） -->
+  <ellipse cx="30" cy="72" rx="12" ry="8" fill="#85C1E9" opacity="0.5"/>
+  <ellipse cx="90" cy="72" rx="12" ry="8" fill="#85C1E9" opacity="0.5"/>
+  <!-- 目（悲しい目） -->
+  <path d="M36 52 Q44 62 52 52" stroke="#2D2D2D" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <path d="M68 52 Q76 62 84 52" stroke="#2D2D2D" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <!-- 涙 -->
+  <ellipse cx="42" cy="62" rx="4" ry="6" fill="#3498DB" opacity="0.8"/>
+  <ellipse cx="78" cy="62" rx="4" ry="6" fill="#3498DB" opacity="0.8"/>
+  <!-- 口（への字） -->
+  <path d="M36 84 Q60 70 84 84" stroke="#2D2D2D" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <!-- 眉（下がり眉） -->
+  <path d="M32 38 Q44 44 50 40" stroke="#2D2D2D" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M70 40 Q76 44 88 38" stroke="#2D2D2D" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+</svg>

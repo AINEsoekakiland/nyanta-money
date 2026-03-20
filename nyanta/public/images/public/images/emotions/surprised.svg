@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- 顔の背景 -->
+  <circle cx="60" cy="60" r="54" fill="#F9E79F" stroke="#2D2D2D" stroke-width="3"/>
+  <!-- ほっぺた -->
+  <ellipse cx="28" cy="70" rx="13" ry="9" fill="#F1948A" opacity="0.5"/>
+  <ellipse cx="92" cy="70" rx="13" ry="9" fill="#F1948A" opacity="0.5"/>
+  <!-- 目（まん丸びっくり目） -->
+  <circle cx="42" cy="50" r="11" fill="white" stroke="#2D2D2D" stroke-width="2.5"/>
+  <circle cx="78" cy="50" r="11" fill="white" stroke="#2D2D2D" stroke-width="2.5"/>
+  <circle cx="44" cy="51" r="5" fill="#2D2D2D"/>
+  <circle cx="80" cy="51" r="5" fill="#2D2D2D"/>
+  <circle cx="46" cy="49" r="2" fill="white"/>
+  <circle cx="82" cy="49" r="2" fill="white"/>
+  <!-- 口（丸く開いた口） -->
+  <ellipse cx="60" cy="82" rx="14" ry="12" fill="#2D2D2D"/>
+  <ellipse cx="60" cy="83" rx="10" ry="9" fill="#C0392B"/>
+  <!-- 驚きの線 -->
+  <line x1="10" y1="20" x2="18" y2="30" stroke="#FF6B35" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="20" y1="14" x2="22" y2="26" stroke="#FF6B35" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="100" y1="20" x2="108" y2="30" stroke="#FF6B35" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="98" y1="14" x2="100" y2="26" stroke="#FF6B35" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- 眉（上がり眉） -->
+  <path d="M32 34 Q42 26 52 32" stroke="#2D2D2D" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M68 32 Q78 26 88 34" stroke="#2D2D2D" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+</svg>
