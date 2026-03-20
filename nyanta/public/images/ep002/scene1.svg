@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#FFF9F0"/>
+  <rect x="0" y="290" width="640" height="70" fill="#E8D5F5"/>
+  <!-- Piggy bank -->
+  <ellipse cx="420" cy="210" rx="100" ry="85" fill="#FFB8C6" stroke="#2D2D2D" stroke-width="3"/>
+  <ellipse cx="420" cy="155" rx="45" ry="40" fill="#FFB8C6" stroke="#2D2D2D" stroke-width="2.5"/>
+  <!-- Pig ears -->
+  <ellipse cx="390" cy="125" rx="18" ry="15" fill="#FF9EB5" stroke="#2D2D2D" stroke-width="2"/>
+  <ellipse cx="450" cy="125" rx="18" ry="15" fill="#FF9EB5" stroke="#2D2D2D" stroke-width="2"/>
+  <!-- Pig eyes -->
+  <circle cx="405" cy="152" r="6" fill="#2D2D2D"/>
+  <circle cx="435" cy="152" r="6" fill="#2D2D2D"/>
+  <!-- Pig nose -->
+  <ellipse cx="420" cy="168" rx="14" ry="10" fill="#FF9EB5" stroke="#2D2D2D" stroke-width="1.5"/>
+  <circle cx="414" cy="168" r="3" fill="#2D2D2D"/>
+  <circle cx="426" cy="168" r="3" fill="#2D2D2D"/>
+  <!-- Coin slot -->
+  <rect x="405" y="118" width="30" height="6" rx="3" fill="#2D2D2D"/>
+  <!-- Coin going in -->
+  <ellipse cx="420" cy="105" rx="18" ry="8" fill="#FFD166" stroke="#2D2D2D" stroke-width="2"/>
+  <text x="420" y="110" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2D2D2D">¥</text>
+  <!-- Masao sad -->
+  <ellipse cx="160" cy="200" rx="30" ry="30" fill="#FFDAB9" stroke="#2D2D2D" stroke-width="2"/>
+  <rect x="130" y="226" width="60" height="70" rx="8" fill="#118AB2" stroke="#2D2D2D" stroke-width="2"/>
+  <circle cx="148" cy="196" r="4" fill="#2D2D2D"/>
+  <circle cx="172" cy="196" r="4" fill="#2D2D2D"/>
+  <path d="M152 212 Q160 206 168 212" stroke="#2D2D2D" stroke-width="2" fill="none"/>
+  <!-- Empty wallet -->
+  <text x="145" y="160" font-size="36">👛</text>
+  <text x="185" y="150" font-family="sans-serif" font-size="20" font-weight="bold" fill="#FF6B35">50円…</text>
+  <!-- Thought bubble -->
+  <circle cx="250" cy="130" r="8" fill="white" stroke="#2D2D2D" stroke-width="1.5"/>
+  <circle cx="268" cy="115" r="11" fill="white" stroke="#2D2D2D" stroke-width="1.5"/>
+  <rect x="272" y="68" width="160" height="58" rx="14" fill="white" stroke="#2D2D2D" stroke-width="2"/>
+  <text x="352" y="90" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2D2D2D">ゲーム欲しいのに</text>
+  <text x="352" y="108" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#FF6B35" font-weight="bold">お金が足りない〜😭</text>
+  <text x="320" y="338" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#666">第2話：おこづかいがピンチ！</text>
+</svg>

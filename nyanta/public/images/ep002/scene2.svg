@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#F0FFF4"/>
+  <rect x="0" y="290" width="640" height="70" fill="#A8E6CF"/>
+  <!-- Calendar / savings chart -->
+  <rect x="60" y="60" width="260" height="220" rx="16" fill="white" stroke="#06D6A0" stroke-width="3"/>
+  <rect x="60" y="60" width="260" height="50" rx="16" fill="#06D6A0"/>
+  <text x="190" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="white">貯金チャート 📈</text>
+  <!-- Bar chart -->
+  <rect x="90" y="220" width="30" height="40" fill="#FFD166" stroke="#2D2D2D" stroke-width="1.5"/>
+  <rect x="135" y="200" width="30" height="60" fill="#FFD166" stroke="#2D2D2D" stroke-width="1.5"/>
+  <rect x="180" y="175" width="30" height="85" fill="#FFD166" stroke="#2D2D2D" stroke-width="1.5"/>
+  <rect x="225" y="145" width="30" height="115" fill="#06D6A0" stroke="#2D2D2D" stroke-width="1.5"/>
+  <rect x="270" y="120" width="30" height="140" fill="#06D6A0" stroke="#2D2D2D" stroke-width="1.5"/>
+  <text x="105" y="275" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#666">1週</text>
+  <text x="150" y="275" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#666">2週</text>
+  <text x="195" y="275" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#666">3週</text>
+  <text x="240" y="275" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#666">4週</text>
+  <text x="285" y="275" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#666">5週</text>
+  <!-- Future gift box -->
+  <rect x="380" y="100" width="200" height="170" rx="16" fill="#FFD166" stroke="#2D2D2D" stroke-width="3"/>
+  <rect x="380" y="100" width="200" height="40" rx="8" fill="#FF6B35" stroke="#2D2D2D" stroke-width="2"/>
+  <rect x="472" y="90" width="16" height="190" rx="8" fill="#FF6B35" stroke="#2D2D2D" stroke-width="1.5"/>
+  <path d="M480 90 Q460 70 450 75 Q440 82 480 90" fill="#FF6B35" stroke="#2D2D2D" stroke-width="1.5"/>
+  <path d="M480 90 Q500 70 510 75 Q520 82 480 90" fill="#FF6B35" stroke="#2D2D2D" stroke-width="1.5"/>
+  <text x="480" y="170" text-anchor="middle" font-size="48">🎮</text>
+  <text x="480" y="220" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2D2D2D">未来のまさおへ</text>
+  <text x="480" y="240" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2D2D2D">プレゼント🎁</text>
+  <text x="320" y="338" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#666">第2話：貯金は未来へのプレゼント</text>
+</svg>
